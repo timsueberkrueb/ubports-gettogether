@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PyOtherSide Example
+Exec=pyotherside-example
+Icon=icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,15 @@
+{
+    "name": "pyotherside-example.timsueberkrueb",
+    "description": "A simple PyOtherSide example",
+    "architecture": "@CLICK_ARCH@",
+    "title": "PyOtherSide Example",
+    "hooks": {
+        "pyotherside-example.timsueberkrueb": {
+            "apparmor": "pyotherside-example.apparmor",
+            "desktop": "pyotherside-example.desktop"
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Tim Süberkrüb <dev@timsueberkrueb.io>",
+    "framework": "ubuntu-sdk-15.04.4"
+}

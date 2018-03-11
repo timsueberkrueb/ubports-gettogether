@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>CalculatorButton.qml</file>
+        <file>main.py</file>
+    </qresource>
+</RCC>
